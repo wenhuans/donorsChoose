@@ -1,3 +1,5 @@
+Project readme as given
+
 # Education Crowdfunding
 
 ![Donors Choose Example](https://github.com/dssg/MLinPractice/blob/main/img/dc_img.png)
